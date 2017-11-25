@@ -1,3 +1,23 @@
-h1{font-weight: normal;font-size: 50px;color:white;text-align: center;}
-*{font-family: Verdana; background-color: Black; text-align: center}
-.link{color: Aquamarine; font-size: 16px}
+h1{
+  font-weight: normal;
+  font-size: 50px;color:white;
+  text-align: center;
+}
+
+.description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+*{
+  font-family: Verdana;
+  background-color: Black;
+  text-align: center
+}
+
+.link{
+  color: Aquamarine;
+  font-size: 16px
+}
+.copyright{color: Gray; text-align: right;}
